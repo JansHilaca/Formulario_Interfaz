@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AllControls",
+            "request": "launch",
+            "mainClass": "Main.AllControls",
+            "projectName": "Controladores_Clase_3_5a5f7a60",
+            "vmArgs": "--module-path c:\\Users\\jansh\\OneDrive\\Escritorio\\javafx-sdk-17.0.8\\lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
