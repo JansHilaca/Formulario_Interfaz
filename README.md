@@ -1,3 +1,7 @@
+## Ejecuccion:
+
+![imagen](https://github.com/JansHilaca/Formulario_Interfaz/assets/168945853/adb9ebe3-7600-469c-bbbb-5eae0fbcdcd5)
+
 # Interfaz de Usuario con JavaFX
 
 Este proyecto implementa una interfaz de usuario (UI) utilizando JavaFX. La interfaz muestra una variedad de controles comunes, como botones, casillas de verificación, enlaces, etc.
